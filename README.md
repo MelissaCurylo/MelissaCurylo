@@ -21,17 +21,17 @@
 
 
 
-![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true)
+<!-- ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true)
 
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact)](https://github.com/melissacurylo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact)](https://github.com/melissacurylo/github-readme-stats) -->
 
 
 <a href="![Melissa's GitHub stats]">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true" />
 </a>
-<a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact)]">
-  <img align="center" src="https://github.com/melissacurylo/github-readme-stats"
+<a href="[![Top Langs]">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact"
 </a>
 
