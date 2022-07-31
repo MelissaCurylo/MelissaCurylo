@@ -22,6 +22,6 @@
 
 
 
-[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissacurylo)](https://github.com/melissacurylo/github-readme-stats)
-
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true&theme=buefy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact)](https://github.com/melissacurylo/github-readme-stats)
