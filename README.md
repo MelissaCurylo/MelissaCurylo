@@ -24,8 +24,5 @@
 <a href="https://github.com/melissacurylo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melissacurylo&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/melissacurylo/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melissacurylo&repo=convoychat" />
-</a>
 
 
