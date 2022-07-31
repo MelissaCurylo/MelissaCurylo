@@ -12,5 +12,5 @@
 - 📫 How to reach me: **Melissa.Curylo@outlook.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space** 
-- ✨ Special Causes I care about: **children with special needs, every child chance to an education and technological global impact for the greater good**
+- ✨ Special Causes I care about: **every child with access to education and technological global impact for the greater good**
 
