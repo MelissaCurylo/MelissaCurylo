@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-<p <a href="[![Top Langs]">
+<a href="[![Top Langs]">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy"
-</a> />
+</a>
 
 
 
