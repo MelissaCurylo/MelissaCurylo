@@ -12,7 +12,7 @@
 - 🌱 Current independent studies: **Docker, ConCourse CI/CD Methodology, Terraform, and A+/Network+ CompTIA Certificates**
 
 
-- 👯 I’m looking to collaborate on **redesigning a Conway's Theory to a 3D biomedical approach**
+- 👯 I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach**
 - 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking**
 
 - 💬 Ask me about: **Weekend Algo Crew**
