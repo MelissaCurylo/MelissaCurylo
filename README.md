@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-<a href="[![Top Langs]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy"
+<a href="[![Top Langs]"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
 </a>
 
 
