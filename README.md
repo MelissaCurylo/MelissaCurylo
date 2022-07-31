@@ -5,7 +5,7 @@
 
 - 🔭 Projects currently in progress: **HOA Project via MERN Stack and T_Alchemy via Python Stack...
 - 🌱 Current structured learning: **Java Full-Stack via Coding Dojo**
-- 🌱 Current independent studies: **Docker, ConCourse CI/CD Methodology, Terraform and A+/Network+ CompTIA Certificates**
+- 🌱 Current independent studies: **Docker, ConCourse CI/CD Methodology, Terraform, and A+/Network+ CompTIA Certificates**
 - 👯 I’m looking to collaborate on **redesigning a Conway's Theory to a 3D biomedical approach**
 - 🤔 I’m looking for help with **CyberSecurity Ethical Hacking**
 - 💬 Ask me about **Weekend Algo Crew**
