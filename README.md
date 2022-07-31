@@ -21,7 +21,11 @@
 
 
 
+<a href="https://github.com/melissacurylo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melissacurylo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/melissacurylo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=melissacurylo&repo=convoychat" />
+</a>
 
-![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact)](https://github.com/melissacurylo/github-readme-stats)
