@@ -18,3 +18,10 @@
 - ⚡ Fun fact: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space** 
 - ✨ Special Causes I care about: **every child with access to an education and technological global impact for the greater good**
 
+
+
+
+
+[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissacurylo)](https://github.com/melissacurylo/github-readme-stats)
+
+![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true&theme=buefy)
