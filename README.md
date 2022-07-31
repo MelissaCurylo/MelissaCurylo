@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub!
 
-<!--
 **MelissaCurylo/MelissaCurylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 Projects currently in progress: **HOA Project via MERN Stack and T_Alchemy via Python Stack...
 - 🌱 Current structured learning: **Java Full-Stack via Coding Dojo**
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **Melissa.Curylo@outlook.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space** 
--->
+
