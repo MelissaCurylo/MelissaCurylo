@@ -18,7 +18,7 @@
 
 <br/>
 
-- 💬 Ask me about: **Weekend Algo Crew**  ** https://replit.com/@MelissaCurylo **
+- 💬 Ask me about: **Weekend Algo Crew**  <a href="![Melissa's Replit]"><img align="center" src="https://replit.com/@MelissaCurylo"/></a>
 
 <br/>
 
