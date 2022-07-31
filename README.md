@@ -27,14 +27,6 @@
 - ⚡ Fun fact: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space** 
 - ✨ Special Causes I care about: **every child with access to an education and technological global impact for the greater good**
 
-<br/>
-
-<a href="![Melissa's GitHub stats]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true&theme=buefy" />
-</a>
-<a href="![Melissa's GitHub Streak]">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=melissacurylo&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" />
-</a>    
 
 <br/>
 <br/>
@@ -56,3 +48,11 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 <br/>
+<br/>
+
+<a href="![Melissa's GitHub stats]">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true&theme=buefy" />
+</a>
+<a href="![Melissa's GitHub Streak]">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=melissacurylo&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" />
+</a>    
