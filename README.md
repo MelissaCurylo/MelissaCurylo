@@ -4,7 +4,7 @@
 
 
 - 🔭 Projects currently in progress: **HOA Project via MERN Stack and T_Alchemy via Python Stack**
--
+
 - 🌱 Current structured learning: **Java Full-Stack via Coding Dojo [Java, JSPs, Spring, Spring Security, mySQL]**
 - 🌱 Current independent studies: **Docker, ConCourse CI/CD Methodology, Terraform, and A+/Network+ CompTIA Certificates**
 
