@@ -27,5 +27,11 @@
 <a href="![Melissa's GitHub stats]">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true&theme=buefy" />
 </a>
+<a href=" [![GitHub Streak]">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=melissacurylo&theme=buefy&date_format=M%20j%5B%2C%20Y%5Dtheme=buefy"
+</a>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melissacurylo&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    
 
 
