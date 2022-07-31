@@ -1,5 +1,8 @@
 ### Hi there 👋 Welcome to my GitHub!
 
+<p <a href="[![Top Langs]">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy"
+</a> />
 
 
 
@@ -8,10 +11,6 @@
 - 🌱 Current structured learning: **Java Full-Stack via Coding Dojo [Java, JSPs, Spring, Spring Security, mySQL]**
 - 🌱 Current independent studies: **Docker, ConCourse CI/CD Methodology, Terraform, and A+/Network+ CompTIA Certificates**
 
-
-<a href="[![Top Langs]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy"
-</a>
 
 - 👯 I’m looking to collaborate on **redesigning a Conway's Theory to a 3D biomedical approach**
 - 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking**
