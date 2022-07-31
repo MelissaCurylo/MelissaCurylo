@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-**<u>Stacking-up Stacks:</u>**
+<u>Stacking-up Stacks:</u>
 <br/>
 
 **Web-Fundamentals**
