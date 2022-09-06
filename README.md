@@ -1,8 +1,8 @@
 <h1>Hi there 👋 Welcome to my GitHub!</h1>
 
 <h3>Mini-Projects - Updated weekly to highlight current work! </h3>
-<h2><a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">
-  Random Quote Generator</a></h2>
+<h4><a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">
+  Random Quote Generator</a></h4>
 
 ![Animation](https://user-images.githubusercontent.com/95829904/188649986-7e032d90-a22a-4d13-9513-24994f2d7a09.gif)
 
@@ -29,9 +29,10 @@
 <hr>
 
 - 💬 Ask me about: **Weekend Algo Crew**  --> https://replit.com/@MelissaCurylo
-- 
+- 💬 Ask me about: **Software Development Engineer 4 Week Training Plan personally develop** --> <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
 
 <br/>
+
 
 - 📫 How to reach me: **Melissa.Curylo@outlook.com**
 - 😄 Pronouns: **She/Her**
@@ -41,6 +42,7 @@
 
 <br/>
 <br/>
+<hr>
 
 **<ins>Stacking-up Stacks:</ins>**
 <br/>
