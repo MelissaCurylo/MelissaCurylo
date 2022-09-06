@@ -1,5 +1,11 @@
 ### Hi there 👋 Welcome to my GitHub!
 
+
+###Mini-Projects 
+###Updated weekly to highlight current work!
+<a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">Random Quote Generator</a>
+![Animation](https://user-images.githubusercontent.com/95829904/188647452-6949b7c5-3e33-442e-a851-cb0168f57e33.gif)
+
 <a href="[![Top Langs]"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
 </a>
@@ -67,10 +73,3 @@
 <a href="![Melissa's GitHub stats]"><img align="center" src="https://github-readme-stats.vercel.app/api?username=melissacurylo&show_icons=true&theme=buefy"/></a><a href="![Melissa's GitHub Streak]"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=melissacurylo&theme=buefy&date_format=M%20j%5B%2C%20Y%5D"/></a>  
 
 <br/>
-
-##Mini-Projects 
-##Updated weekly to highlight current work!
-<a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">Random Quote Generator</a>
-![Animation](https://user-images.githubusercontent.com/95829904/188647452-6949b7c5-3e33-442e-a851-cb0168f57e33.gif)
-
-
