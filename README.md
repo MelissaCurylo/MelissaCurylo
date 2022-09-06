@@ -5,8 +5,7 @@
 Updated weekly to highlight current work!
 <hr>
 <a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">Random Quote Generator</a>
-<br/>
-![Animation](https://user-images.githubusercontent.com/95829904/188647452-6949b7c5-3e33-442e-a851-cb0168f57e33.gif)
+
 
 <hr>
 <a href="[![Top Langs]"> 
