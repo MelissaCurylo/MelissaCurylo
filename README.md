@@ -1,6 +1,8 @@
 <h1>Hi there 👋 Welcome to my GitHub!</h1>
 
 <h3>Mini-Projects - Updated weekly to highlight current work! </h3>
+<h2><a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">
+  Random Quote Generator</a></h2>
 
 ![Animation](https://user-images.githubusercontent.com/95829904/188649986-7e032d90-a22a-4d13-9513-24994f2d7a09.gif)
 
@@ -12,7 +14,7 @@
 </a>
 
 
-
+<hr>
 - 🔭 Projects currently in progress: **HOA Project via MERN Stack and T_Alchemy via Python Stack**
 
 - 🌱 Current structured learning: **Java Full-Stack via Coding Dojo [Java, JSPs, Spring, Spring Security, mySQL]**
@@ -24,8 +26,10 @@
 - 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking**
 
 <br/>
+<hr>
 
 - 💬 Ask me about: **Weekend Algo Crew**  --> https://replit.com/@MelissaCurylo
+- 
 
 <br/>
 
