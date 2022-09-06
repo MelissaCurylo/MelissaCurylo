@@ -1,10 +1,9 @@
 <h1>Hi there 👋 Welcome to my GitHub!</h1>
 
-<h3>Mini-Projects</h3>
-
-Updated weekly to highlight current work!
+<h3>Mini-Projects -- Updated weekly to highlight current work! </h3>
 <hr>
 <a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">Random Quote Generator</a>
+![Animation](https://user-images.githubusercontent.com/95829904/188649986-7e032d90-a22a-4d13-9513-24994f2d7a09.gif)
 
 
 <hr>
