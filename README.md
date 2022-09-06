@@ -3,9 +3,11 @@
 
 ###Mini-Projects 
 ###Updated weekly to highlight current work!
+<br/>
 <a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">Random Quote Generator</a>
 ![Animation](https://user-images.githubusercontent.com/95829904/188647452-6949b7c5-3e33-442e-a851-cb0168f57e33.gif)
 
+<hr>
 <a href="[![Top Langs]"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
 </a>
