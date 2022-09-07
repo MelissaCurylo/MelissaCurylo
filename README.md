@@ -3,7 +3,7 @@
 <h3>Mini-Projects - Updated weekly to highlight current work! </h3>
 
 ## <h4><a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/05_transform_objects/readme.md">
-  Random Quote Generator *Created on September 6th, 2022*</a></h4>
+  Three.js 3D Object Transformations *Created on September 6th, 2022*</a></h4>
   
 ![Animation](https://user-images.githubusercontent.com/95829904/188773775-a637c27e-bbe3-4ccb-ad76-0fb30280d201.gif)
   
