@@ -2,6 +2,14 @@
 
 <h3>Mini-Projects - Updated weekly to highlight current work! </h3>
 
+## <h4><a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/06_animations/readme.md">
+  Three.js 3D Object Transformations *Created on September 7th, 2022*</a></h4>
+  
+![using_clock_rotation](https://user-images.githubusercontent.com/95829904/188859350-eeb4587e-211f-427d-b0dc-e0ee30d3f9b6.gif)
+![using_time_rotation](https://user-images.githubusercontent.com/95829904/188859353-1178c12c-c8e3-4da0-bfce-d8a9d890988f.gif)
+![using_tween](https://user-images.githubusercontent.com/95829904/188859358-5f2c56c8-1c3b-4c49-8c61-b47b2bd54e94.gif)
+
+
 ## <h4><a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/05_transform_objects/readme.md">
   Three.js 3D Object Transformations *Created on September 6th, 2022*</a></h4>
   
