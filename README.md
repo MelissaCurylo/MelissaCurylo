@@ -2,6 +2,12 @@
 
 <h3>Mini-Projects - Updated weekly to highlight current work! </h3>
 
+## <h4><a href="#">
+  Three.js 3D Camera *Created on September 8th, 2022*</a></h4>
+  
+## Correcting Cube Shape
+![correcting_shape](https://user-images.githubusercontent.com/95829904/189225423-6d92300e-37f9-48b9-ad36-a9799dbb00e7.gif)
+
 ## <h4><a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/06_animations/readme.md">
   Three.js 3D Object Transformations *Created on September 7th, 2022*</a></h4>
   
