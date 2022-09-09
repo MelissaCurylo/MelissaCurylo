@@ -1,12 +1,16 @@
 <h1>Hi there 👋 Welcome to my GitHub!</h1>
 
-<h3>Mini-Projects - Updated weekly to highlight current work! </h3>
+<h3>Mini-Projects & Learning - Updated weekly to highlight current work! </h3>
 
-## <h4><a href="#">
+# <h4><a href="https://github.com/MelissaCurylo/three_js/tree/master/practice/07_cameras">
   Three.js 3D Camera *Created on September 8th, 2022*</a></h4>
   
+## Learning Orthographic and Perspective Camera via Control Damping
+![animation_control_damping](https://user-images.githubusercontent.com/95829904/189315698-f33803ed-ed05-402e-9012-695470fb1e5a.gif)
+
 ## Correcting Cube Shape
-![correcting_shape](https://user-images.githubusercontent.com/95829904/189225423-6d92300e-37f9-48b9-ad36-a9799dbb00e7.gif)
+![correcting_shape](https://user-images.githubusercontent.com/95829904/189315522-48fdcc74-2aa9-4db9-8a2f-8f784ecdc365.gif)
+
 
 ## <h4><a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/06_animations/readme.md">
   Three.js 3D Object Transformations *Created on September 7th, 2022*</a></h4>
