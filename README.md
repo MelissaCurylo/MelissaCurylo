@@ -6,10 +6,7 @@
 ## [Enter Name of Project]
 # [Enter tools used]
 # <h4> <a href="#"> [Enter Name of Project] *Created on September [enter date], 2022* </a> </h4>
-Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height) attr.
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
+[Add gif]
 
 
 <hr>
@@ -19,8 +16,12 @@ Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height)
 
 
 <hr>
-## 🔭 Projects currently in progress: 
-#### **Spring Yogi via Java Stack, HOA Board Project via MERN Stack, and T_Alchemy via Python Stack**
+## 🔭 MVC Projects Underway: 
+- [] Interactive Portfolio <subscript> Release Date: *September 19th, 2022* </subscript>
+- [] Spring Yogi via Java Stack <subscript> Release Date: *September 22nd, 2022* </subscript>
+- [] HOA Board Project via MERN Stack <subscript> Release Date: *September 26th, 2022* </subscript>
+- [] T_Alchemy via Python Stack <subscript> Release Date: *September 29th, 2022* </subscript>
+
 
 ## 🌱 Current Post-graduate studies: </br>
 ➡️ **Software Development Engineer 4-Week Plan** <sub>(see ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit#gid=537226561">)</sub> </br>
