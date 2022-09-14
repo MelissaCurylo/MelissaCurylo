@@ -3,10 +3,10 @@
 <h3>Mini-Projects & Learning - Updated weekly to highlight current work! </h3>
 
 
-## [Enter Name of Project]
-# [Enter tools used]
-# <h4> <a href="#"> [Enter Name of Project] *Created on September [enter date], 2022* </a> </h4>
-[Add gif]
+# [Enter Name of Project]
+## [Enter tools used]
+### <h4> <a href="#"> [Enter Name of Project] *Created on September [enter date], 2022* </a> </h4>
+#### [Add gif]
 
 
 <hr>
