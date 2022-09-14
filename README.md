@@ -8,7 +8,7 @@
 
 ### Mini Bio ###
 > 😄 Pronouns: **She/Her** </br>
-> ⚡ Fun facts: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space or languages spoken and typed** </br>
+> ⚡ Fun facts: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space + languages spoken and typed** </br>
 > ✨ Special Causes I care about: **Education Access, STEM gender equality, and technologies global impact for the greater good** </br>
 > :handshake: I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach** </br>
 > 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking** </br>
