@@ -17,14 +17,18 @@
 
 <hr>
 ## 🔭 MVC Projects Underway: ##
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
-- [ ] Interactive Portfolio <subscript> Release Date: *September 19th, 2022* </subscript>
+- [  ] Interactive Portfolio <subscript> Release Date: *September 19th, 2022* </subscript>
 - [ ] Spring Yogi via Java Stack <subscript> Release Date: *September 22nd, 2022* </subscript>
 - [ ] HOA Board Project via MERN Stack <subscript> Release Date: *September 26th, 2022* </subscript>
 - [ ] T_Alchemy via Python Stack <subscript> Release Date: *September 29th, 2022* </subscript>
+
+| Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
+|-------------------------|----------------------|----------------|----------------|-----------|
+| Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+| Spring Yogi Application | September 22nd, 2022 | in progress    | Java Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+| HOA Board Application   | September 26th, 2022 | in progress    | MERN Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+| T_Alchemy Application   | September 26th, 2022 | in progress    | Python Stack   | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+
 
 
 ## 🌱 Current Post-graduate studies: </br>
