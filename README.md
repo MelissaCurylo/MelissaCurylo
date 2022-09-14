@@ -1,4 +1,4 @@
-Hi there 👋 Welcome to my GitHub!
+**Hi there 👋 Welcome to my GitHub!**
 <hr style="border:2px solid gray">
 
 - 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
@@ -6,18 +6,20 @@ Hi there 👋 Welcome to my GitHub!
 
 <hr style="border:2px solid gray">
 
-## Mini Bio </br>
+**Mini Bio** </br>
 > 😄 Pronouns: **She/Her** </br>
-> ✨ Fun facts: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space or languages spoken and typed** </br>
-> 🚨 Special Causes I care about: **Every child with access to education, free education, and technologies global impact for the greater good** </br>
+> ⚡ Fun facts: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space or languages spoken and typed** </br>
+> ✨ Special Causes I care about: **Every child with access to education, free education, and technologies global impact for the greater good** </br>
+> :handshake: I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach**
+> 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking**
 
-> 📲 How to reach me: </br>
+> 📲 **How to reach me:** </br>
         <a href="mailto:Melissa.Curylo@outlook.com">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212896-9f152697-8d55-4fc1-80d6-dc87fde79dc1.svg)</a>
         <a href="https://www.linkedin.com/in/melissacurylo/">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212231-c1654e98-53d7-4d35-ae9c-2689ef96450e.svg)</a>
 
 <hr style="border:2px solid gray">
 
-<h3>Mini-Projects & Learning - Updated weekly to highlight current work! </h3>
+**Mini-Projects & Learning - Updated weekly to highlight current work!**
 </br>
 # [Enter Name of Project]
 [Enter tools used]
@@ -26,11 +28,12 @@ Hi there 👋 Welcome to my GitHub!
 
 
 <hr style="border:2px solid gray">
+
 <a href="[![Top Langs]"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
 </a>
 
-# 🌱 Major Projects Underway 
+**🌱 Major Projects Underway 
 | Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
 |-------------------------|----------------------|----------------|----------------|-----------|
 | Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
@@ -40,7 +43,7 @@ Hi there 👋 Welcome to my GitHub!
 
 <hr style="border:2px solid gray">
 
-# 🌱 Current Learning Trajectory 
+**🌱 Current Learning Trajectory 
 | Title                        | Due Date             | Current Status                  | Topics                                                                                                                                | Finished                                                            | 
 |------------------------------|----------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | Graduate Coding Dojo         | August 26th, 2022    | Complete                        | <ul><li>Python Stack</li> <li>MERN Stack</li> <li>JAVA Stack</li></ul>                                                                | <ul><li>[x] Complete </li><li>[Certificate](#Certificate)</li></ul> |
@@ -56,31 +59,8 @@ Hi there 👋 Welcome to my GitHub!
 | CompTIA A+ Cert              | November 30th, 2022  | Start: November 15th, 2022      | ➡<a href="https://www.comptia.org/certifications">Check it out! </a>                                                                 | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
 |CompTIA Network+ Cert         | November 30th, 2022  | Start: November 15th, 2022      | ➡<a href="https://www.comptia.org/certifications">Check it out! </a>                                                                 | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
 |CCNA Cert                     | January 30th, 2023   | Start: November 15th, 2022      | ➡<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~exam-training">Check it out! </a>   | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
-
+**
 <hr style="border:2px solid gray">
-
-- :handshake: I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach**
-- 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking**
-
-<br/>
-
-<hr style="border:2px solid gray">
-
-- 💬 Ask me about: **Weekend Algo Crew**  --> https://replit.com/@MelissaCurylo  🚨Starts again October 15th, 2022
-- 💬 Ask me about: **Software Development Engineer 4-Week Training Plan - personally developed full of free resources** ➡️: <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
-
-<br/>
-
-
-- How to reach me: :email: **Melissa.Curylo@outlook.com** 
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space** 
-- ✨ Special Causes I care about: **every child with access to an education and technological global impact for the greater good**
-
-
-<br/>
-<br/>
-<hr>
 
 **<ins>Stacking-up Stacks:</ins>**
 <br/>
