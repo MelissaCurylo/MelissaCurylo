@@ -1,5 +1,22 @@
-<h1>Hi there 👋 Welcome to my GitHub!</h1><hr>
-</br>
+Hi there 👋 Welcome to my GitHub!
+<hr style="border:2px solid gray">
+
+- 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** - personally developed structure full of free resources** 
+    - ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
+- 💬 Ask me about: **Weekend Algo Crew**  
+    - ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>  🚨Starts again October 15th, 2022
+
+<hr style="border:2px solid gray">
+
+- How to reach me: 
+:email: **Melissa.Curylo@outlook.com** 
+<a target="_https://www.linkedin.com/in/melissacurylo/" href="https://icons8.com/icon/13930/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">LinkedIn</a>
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space** 
+- ✨ Special Causes I care about: **every child with access to an education and technological global impact for the greater good**
+
+
+<br/>
 
 <h3>Mini-Projects & Learning - Updated weekly to highlight current work! </h3>
 </br>
@@ -9,7 +26,7 @@
 [Add gif]
 
 
-<hr>
+<hr style="border:2px solid gray">
 <a href="[![Top Langs]"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
 </a>
@@ -22,6 +39,7 @@
 | HOA Board Application   | September 26th, 2022 | in progress    | MERN Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
 | T_Alchemy Application   | September 26th, 2022 | in progress    | Python Stack   | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
 
+<hr style="border:2px solid gray">
 
 # 🌱 Current Learning Trajectory 
 | Title                        | Due Date             | Current Status                  | Topics                                                                                                                                | Finished                                                            | 
@@ -40,13 +58,14 @@
 |CompTIA Network+ Cert         | November 30th, 2022  | Start: November 15th, 2022      | ➡<a href="https://www.comptia.org/certifications">Check it out! </a>                                                                 | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
 |CCNA Cert                     | January 30th, 2023   | Start: November 15th, 2022      | ➡<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~exam-training">Check it out! </a>   | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
 
-<br/>
+<hr style="border:2px solid gray">
 
 - :handshake: I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach**
 - 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking**
 
 <br/>
-<hr>
+
+<hr style="border:2px solid gray">
 
 - 💬 Ask me about: **Weekend Algo Crew**  --> https://replit.com/@MelissaCurylo  🚨Starts again October 15th, 2022
 - 💬 Ask me about: **Software Development Engineer 4-Week Training Plan - personally developed full of free resources** ➡️: <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
