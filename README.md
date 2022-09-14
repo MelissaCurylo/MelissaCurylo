@@ -4,8 +4,6 @@
 > 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a> </br>
 > 💬 Ask me about: **Weekend Algo Crew** 🚨Starts again October 15th, 2022 ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>
 
-<hr style="border:2px solid gray">
-
 **Mini Bio** </br>
 > 😄 Pronouns: **She/Her** </br>
 > ⚡ Fun facts: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space or languages spoken and typed** </br>
