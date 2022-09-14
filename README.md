@@ -2,7 +2,7 @@
 
 
 > 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a> </br>
-> 💬 Ask me about: **Weekend Algo Crew** 🚨Starts again October 15th, 2022 ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>
+> 💬 Ask me about: **Weekend Algo Crew** 🚨**_Starts again October 15th, 2022_** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>
 
 </br>
 
@@ -14,7 +14,7 @@
 > 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking** </br>
 
 > 📲 **How to reach me:** </br>
-> <a href="mailto:Melissa.Curylo@outlook.com" style="margin-left: 5px">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212896-9f152697-8d55-4fc1-80d6-dc87fde79dc1.svg)</a> <a href="https://www.linkedin.com/in/melissacurylo/" style="margin-left: 5px">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212231-c1654e98-53d7-4d35-ae9c-2689ef96450e.svg)</a></p>
+> <a href="mailto:Melissa.Curylo@outlook.com" style="margin-left: 15px">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212896-9f152697-8d55-4fc1-80d6-dc87fde79dc1.svg)</a> <a href="https://www.linkedin.com/in/melissacurylo/" style="margin-left: 5px">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212231-c1654e98-53d7-4d35-ae9c-2689ef96450e.svg)</a></p>
 
 
 ### Mini-Projects & Learning - Updated weekly to highlight current work! ### 
