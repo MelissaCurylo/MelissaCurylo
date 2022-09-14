@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
 </a>
 
-# 🔭 Major Projects Underway 
+# 🌱 Major Projects Underway 
 | Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
 |-------------------------|----------------------|----------------|----------------|-----------|
 | Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
@@ -23,13 +23,23 @@
 | T_Alchemy Application   | September 26th, 2022 | in progress    | Python Stack   | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
 
 
+# 🔭 Current Learning Trajectory 
+| Title                   | Due Date             | Current Status                  | Topics                                                                                                                                | Finished                                                            | 
+|-------------------------|----------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Graduate Coding Dojo    | August 26th, 2022    | Complete                        | <ul><li>Python Stack</li> <li>MERN Stack</li> <li>JAVA Stack</li></ul>                                                                | <ul><li>[x] Complete </li><li>[Certificate](#Certificate)</li></ul> |
+| SDE Training            | October 3rd, 2022    | in progress                     | ➡<a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing">Check it out! </a>   | <ul><li>[ ] Complete </li></ul> |
+| Software System Design  | October 7th, 2022    | in progress                     | <ul><li>Architectures</li><li>Modules</li><li>Interfaces</li></ul>                                                                    | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
+| Container Platforms     | October 7th, 2022    | in progress                     | <ul><li>Docker</li><li>Kubernetes</li><li>AWS</li></ul>                                                                               | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
+| Terraform Infrastructure| October 14th, 2022   | in progress                     | <ul><li>Terraform</li><li>AWS</li></ul>                                                                                               | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
+| Terraform Certificatoin | October 30th, 2022   | in progress                     | <ul><li>Three.js programming</li><li>Three Projects (tba) </li></ul>                                                                  | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
+| Three.js                | October 30th, 2022   | in progress                     | <ul><li>Three.js programming</li><li>Three Projects (tba) </li></ul>                                                                  | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
+| Machine Learning        | November 15th, 2022  | in progress                     | <ul><li>Python Base</li><li>Three Projects (tba) </li></ul>                                                                           | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
+| Tensorflow Certification| November 15th, 2022  | Start Date: October 30th, 2022  | <ul><li>Machine learning</li><li>NumPy/Pandas</li><li>NLP</li><li>Neural Networks</li><li>Neural Network Regression</li></ul>         | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
+| 100 Days of Python      | December 21st, 2022  | in progress                     | <ul><li>Python</li><li>Selenium</li><li>Beautiful Soup</li><li>Flask</li><li>Pandas</li><li>Scikit Learn</li><li>Plotly</li><li>Matplotlib</li></ul> | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
 
-## 🌱 Current Post-graduate studies: </br>
-➡️ **Software Development Engineer 4-Week Plan** <sub>(see ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit#gid=537226561">)</sub> </br>
-➡️ ** 100 Days of Python ** ➡️ <a href="https://github.com/MelissaCurylo/python/tree/master/100_days_of_python"/>) **
 
 
-- 🌱 Current independent studies: **Docker, Kubernetes, ConCourse CI/CD Methodology, Terraform, 
+
 - 🌱 Current independent studies:  and A+/Network+ CompTIA Certificates**
 
 <br/>
