@@ -4,7 +4,7 @@
 > 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a> </br>
 > 💬 Ask me about: **Weekend Algo Crew** 🚨Starts again October 15th, 2022 ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>
 
-**Mini Bio** </br>
+### Mini Bio ### </br>
 > 😄 Pronouns: **She/Her** </br>
 > ⚡ Fun facts: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space or languages spoken and typed** </br>
 > ✨ Special Causes I care about: **Education Access, STEM gender equality, and technologies global impact for the greater good** </br>
@@ -12,13 +12,12 @@
 > 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking** </br>
 
 > 📲 **How to reach me:** </br>
-> <a href="mailto:Melissa.Curylo@outlook.com">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212896-9f152697-8d55-4fc1-80d6-dc87fde79dc1.svg)</a>
-> <a href="https://www.linkedin.com/in/melissacurylo/">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212231-c1654e98-53d7-4d35-ae9c-2689ef96450e.svg)</a>
+> <p style="margin-left: 5px"> <a href="mailto:Melissa.Curylo@outlook.com">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212896-9f152697-8d55-4fc1-80d6-dc87fde79dc1.svg)</a> </p>
+> <p style="margin-left: 5px"><a href="https://www.linkedin.com/in/melissacurylo/">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212231-c1654e98-53d7-4d35-ae9c-2689ef96450e.svg)</a> </p>
 
 <hr style="border:2px solid gray">
 
-**Mini-Projects & Learning - Updated weekly to highlight current work!**
-</br>
+### Mini-Projects & Learning - Updated weekly to highlight current work! ### </br>
 > # [Enter Name of Project]
 > [Enter tools used]
 > <h4> <a href="#"> [Enter Name of Project] *Created on September [enter date], 2022* </a> </h4>
@@ -27,7 +26,7 @@
 <hr style="border:2px solid gray">
 
 
-**🌱 Major Projects Underway**
+### 🌱 Major Projects Underway ###
 | Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
 |-------------------------|----------------------|----------------|----------------|-----------|
 | Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
