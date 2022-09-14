@@ -19,9 +19,13 @@ Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height)
 
 
 <hr>
-- 🔭 Projects currently in progress: **HOA Project via MERN Stack and T_Alchemy via Python Stack**
+- 🔭 Projects currently in progress: **Spring Yogi via Java Stack, HOA Board Project via MERN Stack, and T_Alchemy via Python Stack**
 
-- 🌱 Current Post-graduate studies: **Software Development Engineer 4-Week Plan (see my Ask me about below :point_down:) **
+- 🌱 Current Post-graduate studies: 
+- **Software Development Engineer 4-Week Plan (see ➡️ <a href="">) **
+- **100 Days of Python ▶️ <a href="https://github.com/MelissaCurylo/python/tree/master/100_days_of_python">) **
+**Software Development Engineer 4-Week Plan ** <a href="https://github.com/MelissaCurylo#:~:text=October%2015th%2C%202022-,%F0%9F%92%AC,Engineer%204%20Week%20Training%20Plan%20personally%20develop%20%2D%2D%3E%20Check%20it%20out!,-%F0%9F%93%AB"> **
+
 - 🌱 Current independent studies: **Docker, Kubernetes, ConCourse CI/CD Methodology, Terraform, 
 - 🌱 Current independent studies:  and A+/Network+ CompTIA Certificates**
 
@@ -34,12 +38,12 @@ Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height)
 <hr>
 
 - 💬 Ask me about: **Weekend Algo Crew**  --> https://replit.com/@MelissaCurylo  🚨Starts again October 15th, 2022
-- 💬 Ask me about: **Software Development Engineer 4 Week Training Plan personally develop** --> <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
+- 💬 Ask me about: **Software Development Engineer 4-Week Training Plan - personally developed full of free resources** ➡️: <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
 
 <br/>
 
 
-- 📫 How to reach me: **Melissa.Curylo@outlook.com**
+- How to reach me: :email: **Melissa.Curylo@outlook.com** 
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space** 
 - ✨ Special Causes I care about: **every child with access to an education and technological global impact for the greater good**
