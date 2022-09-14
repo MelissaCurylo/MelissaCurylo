@@ -9,8 +9,8 @@ Hi there 👋 Welcome to my GitHub!
 <hr style="border:2px solid gray">
 
 - How to reach me: 
-        - :email: **Melissa.Curylo@outlook.com** 
-        - ![icons8-linkedin-16](https://user-images.githubusercontent.com/95829904/190206279-ef03166e-5616-4420-8b74-434c01b3a8ea.png) <a href="https://www.linkedin.com/in/melissacurylo/">LinkedIn</a>
+        ➡️ :email: **Melissa.Curylo@outlook.com** 
+        ➡️ ![icons8-linkedin-16](https://user-images.githubusercontent.com/95829904/190206279-ef03166e-5616-4420-8b74-434c01b3a8ea.png) <a href="https://www.linkedin.com/in/melissacurylo/">LinkedIn</a>
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space** 
 - ✨ Special Causes I care about: **every child with access to an education and technological global impact for the greater good**
