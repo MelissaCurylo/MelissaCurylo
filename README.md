@@ -17,7 +17,7 @@
 
 <hr style="border:2px solid gray">
 
-> **Mini-Projects & Learning - Updated weekly to highlight current work!**
+**Mini-Projects & Learning - Updated weekly to highlight current work!**
 </br>
 > # [Enter Name of Project]
 > [Enter tools used]
