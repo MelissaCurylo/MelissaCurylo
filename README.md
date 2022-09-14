@@ -17,7 +17,7 @@
 
 <hr>
 
-|                               # 🔭 Major Projects Underway #                                | 
+|                               🔭 Major Projects Underway                                    | 
 | Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
 |-------------------------|----------------------|----------------|----------------|-----------|
 | Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
