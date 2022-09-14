@@ -1,10 +1,4 @@
-<hr>
-
-<h1> Hello and Welcome to my Github! </h1>
-
-<h1>Hi there 👋 Welcome to my GitHub!</h1>
-
-<hr>
+<h1>Hi there 👋 Welcome to my GitHub!</h1><hr>
 </br>
 
 <h3>Mini-Projects & Learning - Updated weekly to highlight current work! </h3>
