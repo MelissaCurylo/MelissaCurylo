@@ -1,8 +1,8 @@
 **Hi there 👋 Welcome to my GitHub!**
 <hr style="border:2px solid gray">
 
-- 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
-- 💬 Ask me about: **Weekend Algo Crew** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>  🚨Starts again October 15th, 2022
+> 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
+> 💬 Ask me about: **Weekend Algo Crew** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>  🚨Starts again October 15th, 2022
 
 <hr style="border:2px solid gray">
 
@@ -21,11 +21,10 @@
 
 **Mini-Projects & Learning - Updated weekly to highlight current work!**
 </br>
-# [Enter Name of Project]
-[Enter tools used]
-<h4> <a href="#"> [Enter Name of Project] *Created on September [enter date], 2022* </a> </h4>
-[Add gif]
-
+> # [Enter Name of Project]
+> [Enter tools used]
+> <h4> <a href="#"> [Enter Name of Project] *Created on September [enter date], 2022* </a> </h4>
+> [Add gif]
 
 <hr style="border:2px solid gray">
 
@@ -33,13 +32,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
 </a>
 
-**🌱 Major Projects Underway 
-| Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
-|-------------------------|----------------------|----------------|----------------|-----------|
-| Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
-| Spring Yogi Application | September 22nd, 2022 | in progress    | Java Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
-| HOA Board Application   | September 26th, 2022 | in progress    | MERN Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
-| T_Alchemy Application   | September 26th, 2022 | in progress    | Python Stack   | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+>**🌱 Major Projects Underway 
+> | Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
+> |-------------------------|----------------------|----------------|----------------|-----------|
+> | Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+> | Spring Yogi Application | September 22nd, 2022 | in progress    | Java Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+> | HOA Board Application   | September 26th, 2022 | in progress    | MERN Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+> | T_Alchemy Application   | September 26th, 2022 | in progress    | Python Stack   | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
 
 <hr style="border:2px solid gray">
 
