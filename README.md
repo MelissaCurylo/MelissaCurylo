@@ -16,12 +16,18 @@
 > 📲 **How to reach me:** </br>
   > <a href="mailto:Melissa.Curylo@outlook.com"><p style="margin-left: 5px">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212896-9f152697-8d55-4fc1-80d6-dc87fde79dc1.svg)</a> <a href="https://www.linkedin.com/in/melissacurylo/">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212231-c1654e98-53d7-4d35-ae9c-2689ef96450e.svg)</a></p>
 
+</br>
+</br>
 
 ### Mini-Projects & Learning - Updated weekly to highlight current work! ### 
 > # [Enter Name of Project]
 > [Enter tools used]
 > <h4> <a href="#"> [Enter Name of Project] *Created on September [enter date], 2022* </a> </h4>
 > [Add gif]
+
+
+</br>
+</br>  
 
 
 ### 🌱 Major Projects Underway ###
@@ -32,10 +38,11 @@
 | HOA Board Application   | September 26th, 2022 | in progress    | MERN Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
 | T_Alchemy Application   | September 26th, 2022 | in progress    | Python Stack   | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
 
+
 </br>
 </br>
 
-**🌱 Current Learning Trajectory**
+### 🌱Current Learning Trajectory ### 
 | Title                        | Due Date             | Current Status                  | Topics                                                                                                                                | Finished                                                            | 
 |------------------------------|----------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | Graduate Coding Dojo         | August 26th, 2022    | Complete                        | <ul><li>Python Stack</li> <li>MERN Stack</li> <li>JAVA Stack</li></ul>                                                                | <ul><li>[x] Complete </li><li>[Certificate](#Certificate)</li></ul> |
