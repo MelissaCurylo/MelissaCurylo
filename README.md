@@ -31,13 +31,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
 </a>
 
->**🌱 Major Projects Underway 
-> | Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
-> |-------------------------|----------------------|----------------|----------------|-----------|
-> | Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
-> | Spring Yogi Application | September 22nd, 2022 | in progress    | Java Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
-> | HOA Board Application   | September 26th, 2022 | in progress    | MERN Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
-> | T_Alchemy Application   | September 26th, 2022 | in progress    | Python Stack   | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+**🌱 Major Projects Underway 
+| Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
+|-------------------------|----------------------|----------------|----------------|-----------|
+| Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+| Spring Yogi Application | September 22nd, 2022 | in progress    | Java Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+| HOA Board Application   | September 26th, 2022 | in progress    | MERN Stack     | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
+| T_Alchemy Application   | September 26th, 2022 | in progress    | Python Stack   | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
 
 <hr style="border:2px solid gray">
 
