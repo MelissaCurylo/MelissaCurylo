@@ -1,5 +1,5 @@
-<hr style="color: blue">
-
+<hr>
+#Hi there 👋 Welcome to my GitHub!
 <hr>
 </br>
 
