@@ -26,7 +26,6 @@
 
 <hr style="border:2px solid gray">
 
-<p align="center" <a href="[![Top Langs]"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" /> </a></p>
 
 **🌱 Major Projects Underway**
 | Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
@@ -56,6 +55,8 @@
 |CCNA Cert                     | January 30th, 2023   | Start: November 15th, 2022      | ➡<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~exam-training">Check it out! </a>   | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
 
 <hr style="border:2px solid gray">
+
+<p align="center" <a href="[![Top Langs]"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" /> </a></p>
 
 **<ins>Stacking-up Stacks:</ins>**
 <br/>
