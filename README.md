@@ -16,7 +16,11 @@
 
 
 <hr>
-## 🔭 MVC Projects Underway: 
+## 🔭 MVC Projects Underway: ##
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 - [ ] Interactive Portfolio <subscript> Release Date: *September 19th, 2022* </subscript>
 - [ ] Spring Yogi via Java Stack <subscript> Release Date: *September 22nd, 2022* </subscript>
 - [ ] HOA Board Project via MERN Stack <subscript> Release Date: *September 26th, 2022* </subscript>
