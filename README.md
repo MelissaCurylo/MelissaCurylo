@@ -1,10 +1,10 @@
 Hi there 👋 Welcome to my GitHub!
 <hr style="border:2px solid gray">
 
-- 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** - personally developed structure full of free resources** 
-    - ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
-- 💬 Ask me about: **Weekend Algo Crew**  
-    - ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>  🚨Starts again October 15th, 2022
+- 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** - personally developed structure full of free resources** </br>
+    ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
+- 💬 Ask me about: **Weekend Algo Crew**  </br>
+    ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>  🚨Starts again October 15th, 2022
 
 <hr style="border:2px solid gray">
 
