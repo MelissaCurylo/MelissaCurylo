@@ -1,5 +1,7 @@
 <hr>
 
+<h1> Hello and Welcome to my Github! </h1>
+
 <h1>Hi there 👋 Welcome to my GitHub!</h1>
 
 <hr>
