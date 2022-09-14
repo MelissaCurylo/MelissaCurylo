@@ -5,6 +5,7 @@
 > 💬 Ask me about: **Weekend Algo Crew** 🚨Starts again October 15th, 2022 ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>
 
 </br>
+
 ### Mini Bio ###
 > 😄 Pronouns: **She/Her** </br>
 > ⚡ Fun facts: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space or languages spoken and typed** </br>
