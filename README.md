@@ -2,35 +2,13 @@
 
 <h3>Mini-Projects & Learning - Updated weekly to highlight current work! </h3>
 
-# <h4><a href="https://github.com/MelissaCurylo/three_js/tree/master/practice/07_cameras">
-  Three.js 3D Camera *Created on September 8th, 2022*</a></h4>
-  
-## Learning Orthographic and Perspective Camera via Control Damping
-![animation_control_damping](https://user-images.githubusercontent.com/95829904/189315698-f33803ed-ed05-402e-9012-695470fb1e5a.gif)
 
-## Correcting Cube Shape
-![correcting_shape](https://user-images.githubusercontent.com/95829904/189315522-48fdcc74-2aa9-4db9-8a2f-8f784ecdc365.gif)
-
-
-## <h4><a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/06_animations/readme.md">
-  Three.js 3D Object Transformations *Created on September 7th, 2022*</a></h4>
-  
-![using_clock_rotation](https://user-images.githubusercontent.com/95829904/188859350-eeb4587e-211f-427d-b0dc-e0ee30d3f9b6.gif)
-![using_time_rotation](https://user-images.githubusercontent.com/95829904/188859353-1178c12c-c8e3-4da0-bfce-d8a9d890988f.gif)
-![using_tween](https://user-images.githubusercontent.com/95829904/188859358-5f2c56c8-1c3b-4c49-8c61-b47b2bd54e94.gif)
-
-
-## <h4><a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/05_transform_objects/readme.md">
-  Three.js 3D Object Transformations *Created on September 6th, 2022*</a></h4>
-  
-![Animation](https://user-images.githubusercontent.com/95829904/188773775-a637c27e-bbe3-4ccb-ad76-0fb30280d201.gif)
-  
-
-
-## <h4><a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/random_quote_generator">
-  Random Quote Generator *Created on September 5th, 2022*</a></h4>
-
-![Animation](https://user-images.githubusercontent.com/95829904/188649986-7e032d90-a22a-4d13-9513-24994f2d7a09.gif)
+## [Enter Name of Project]
+# [Enter tools used]
+# <h4> <a href="#"> [Enter Name of Project] *Created on September [enter date], 2022* </a> </h4>
+Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height) attr.
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
 
@@ -43,18 +21,19 @@
 <hr>
 - 🔭 Projects currently in progress: **HOA Project via MERN Stack and T_Alchemy via Python Stack**
 
-- 🌱 Current structured learning: **Java Full-Stack via Coding Dojo [Java, JSPs, Spring, Spring Security, mySQL]**
-- 🌱 Current independent studies: **Docker, ConCourse CI/CD Methodology, Terraform, and A+/Network+ CompTIA Certificates**
+- 🌱 Current Post-graduate studies: **Software Development Engineer 4-Week Plan (see my Ask me about below :point_down:) **
+- 🌱 Current independent studies: **Docker, Kubernetes, ConCourse CI/CD Methodology, Terraform, 
+- 🌱 Current independent studies:  and A+/Network+ CompTIA Certificates**
 
 <br/>
 
-- 👯 I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach**
+- :handshake: I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach**
 - 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking**
 
 <br/>
 <hr>
 
-- 💬 Ask me about: **Weekend Algo Crew**  --> https://replit.com/@MelissaCurylo
+- 💬 Ask me about: **Weekend Algo Crew**  --> https://replit.com/@MelissaCurylo  🚨Starts again October 15th, 2022
 - 💬 Ask me about: **Software Development Engineer 4 Week Training Plan personally develop** --> <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a>
 
 <br/>
