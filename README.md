@@ -9,9 +9,9 @@
 **Mini Bio** </br>
 > 😄 Pronouns: **She/Her** </br>
 > ⚡ Fun facts: **Cat-Lover, Acro-Yoga Enthusiast, and geeks out over anything Space or languages spoken and typed** </br>
-> ✨ Special Causes I care about: **Every child with access to education, free education, and technologies global impact for the greater good** </br>
-> :handshake: I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach**
-> 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking**
+> ✨ Special Causes I care about: **Education Access, STEM gender equality, and technologies global impact for the greater good** </br>
+> :handshake: I’m looking to collaborate on **redesigning Conway's Theory to a 3D biomedical approach** </br>
+> 🤔 I’m looking for help with **learning CyberSecurity and Ethical Hacking** </br>
 
 > 📲 **How to reach me:** </br>
         <a href="mailto:Melissa.Curylo@outlook.com">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212896-9f152697-8d55-4fc1-80d6-dc87fde79dc1.svg)</a>
