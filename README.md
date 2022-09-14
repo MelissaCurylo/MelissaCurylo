@@ -26,12 +26,9 @@
 
 <hr style="border:2px solid gray">
 
+<p align="center" <a href="[![Top Langs]"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" /> </a></p>
 
-<a href="[![Top Langs]"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacurylo&layout=compact&theme=buefy" />
-</a>
-
-**🌱 Major Projects Underway 
+**🌱 Major Projects Underway**
 | Project                 | Release Date         | Current Status | Stack Base     | Finished  | 
 |-------------------------|----------------------|----------------|----------------|-----------|
 | Interactive Portfolio   | September 19th, 2022 | in progress    | Three.js       | <ul><li>[ ] Complete </li><li>[ ] Deployed</li></ul> |
@@ -41,7 +38,7 @@
 
 <hr style="border:2px solid gray">
 
-**🌱 Current Learning Trajectory 
+**🌱 Current Learning Trajectory**
 | Title                        | Due Date             | Current Status                  | Topics                                                                                                                                | Finished                                                            | 
 |------------------------------|----------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | Graduate Coding Dojo         | August 26th, 2022    | Complete                        | <ul><li>Python Stack</li> <li>MERN Stack</li> <li>JAVA Stack</li></ul>                                                                | <ul><li>[x] Complete </li><li>[Certificate](#Certificate)</li></ul> |
@@ -57,7 +54,7 @@
 | CompTIA A+ Cert              | November 30th, 2022  | Start: November 15th, 2022      | ➡<a href="https://www.comptia.org/certifications">Check it out! </a>                                                                 | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
 |CompTIA Network+ Cert         | November 30th, 2022  | Start: November 15th, 2022      | ➡<a href="https://www.comptia.org/certifications">Check it out! </a>                                                                 | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
 |CCNA Cert                     | January 30th, 2023   | Start: November 15th, 2022      | ➡<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~exam-training">Check it out! </a>   | <ul><li>[ ] Complete </li><li>[ ] Certificate</li></ul> |
-**
+
 <hr style="border:2px solid gray">
 
 **<ins>Stacking-up Stacks:</ins>**
