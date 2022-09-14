@@ -19,12 +19,12 @@ Copy <img> in browser DevTools. Replace ![](url) to <img>. Add width(and height)
 
 
 <hr>
-- 🔭 Projects currently in progress: **Spring Yogi via Java Stack, HOA Board Project via MERN Stack, and T_Alchemy via Python Stack**
+## 🔭 Projects currently in progress: 
+#### **Spring Yogi via Java Stack, HOA Board Project via MERN Stack, and T_Alchemy via Python Stack**
 
-🌱 Current Post-graduate studies: 
-<hr>
-➡️ **Software Development Engineer 4-Week Plan (see ➡️ href="https://github.com/MelissaCurylo#:~:text=October%2015th%2C%202022-,%F0%9F%92%AC,Engineer%204%20Week%20Training%20Plan%20personally%20develop%20%2D%2D%3E%20Check%20it%20out!,-%F0%9F%93%AB"/>) **
-➡️ **100 Days of Python ➡️ <a href="https://github.com/MelissaCurylo/python/tree/master/100_days_of_python"/>) **
+## 🌱 Current Post-graduate studies: </br>
+➡️ **Software Development Engineer 4-Week Plan** <sub>(see ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit#gid=537226561">)</sub> </br>
+➡️ ** 100 Days of Python ** ➡️ <a href="https://github.com/MelissaCurylo/python/tree/master/100_days_of_python"/>) **
 
 
 - 🌱 Current independent studies: **Docker, Kubernetes, ConCourse CI/CD Methodology, Terraform, 
