@@ -23,8 +23,9 @@
 
 #### Learning Three.JS Resizing and Fullscreen Modes ####
 > Using Three.JS, Node Framework and NPM Package Manager
-> <p> <a href="#"> Link to Repo *Created on September 15th, 2022* </a> </p>
+> <p> <a href="#"> Repository *Created on September 15th, 2022* </a> </p>
 > <p> Viewport image now able to resize regardless of web browser type (including Safari 👍)</p>
+> <p> Enter and exit fullscreen double-click enabled </p>
 > <p> Common "stair" distortion on shapes minimized, gaining fluid flow of shape movement </p>
 ![fullscreen_and_resizing](https://user-images.githubusercontent.com/95829904/190499607-4b962dcb-c574-4842-a4eb-7ea1f169f934.gif)
 
