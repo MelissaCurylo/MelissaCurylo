@@ -22,9 +22,10 @@
 ### Mini-Projects & Learning - Updated weekly to highlight current work! ### 
 
 ## Learning Three.JS Resizing and Fullscreen Modes ##
-> ### Using Three.JS, Node Framework and NPM Package Manager ###
-> <h4> <a href="#"> [Enter Name of Project] *Created on September 15th, 2022* </a> </h4>
-> ![fullscreen_and_resizing](https://user-images.githubusercontent.com/95829904/190499607-4b962dcb-c574-4842-a4eb-7ea1f169f934.gif)
+> Using Three.JS, Node Framework and NPM Package Manager
+> <h4> <a href="#"> Resizing and Fullscreen Modes *Created on September 15th, 2022* </a> </h4>
+
+![fullscreen_and_resizing](https://user-images.githubusercontent.com/95829904/190499607-4b962dcb-c574-4842-a4eb-7ea1f169f934.gif)
 
 
 
