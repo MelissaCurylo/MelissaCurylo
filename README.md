@@ -22,9 +22,10 @@
 ### Mini-Projects & Learning - Updated weekly to highlight current work! ###
 
 ### 🌱 Current Mini Projects & Learning Highlights (updated weekly) ###
-| Topics Covered                                             |  Repository Link and Date                                          | Language(s) and/or Tool(s)                                                                   | Demo                                                                    | 
-|------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| #### Learning Three.JS Resizing and Fullscreen Modes ####  |➡️ <a href="#">                                                    | <ul><li>Javascript - Three.js</li><li>Node Framework </li><li>NPM Package Manager</li></ul>  | 
+| Topics Covered                            | Details                 |  Repository Link and Date                                          | Language(s) and/or Tool(s)                                                                   | Demo                                                            | 
+|-------------------------------------------|-------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| Three.JS Resizing and Fullscreen Modes    |  <ul><li>1️⃣ Viewport image now able to resize regardless of web browser type (including Safari 👍)</li><li>2️⃣ Enter and exit fullscreen double-click enabled </li><li>3️⃣ Common "stair" distortion on shapes minimized, gaining fluid flow of shape movement</li></ul> | ➡️ <a href="#"> | <ul><li>Javascript - Three.js</li><li>Node Framework </li><li>NPM Package Manager</li></ul>  | ![fullscreen_and_resizing](https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif)
+
 
 
 #### Learning Three.JS Resizing and Fullscreen Modes ####
