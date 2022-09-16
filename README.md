@@ -19,7 +19,13 @@
 </br>
 </br>
 
-### Mini-Projects & Learning - Updated weekly to highlight current work! ### 
+### Mini-Projects & Learning - Updated weekly to highlight current work! ###
+
+### 🌱 Current Mini Projects & Learning Highlights (updated weekly) ###
+| Topics Covered                                             |  Repository Link and Date                                          | Language(s) and/or Tool(s)                                                                   | Demo                                                                    | 
+|------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| #### Learning Three.JS Resizing and Fullscreen Modes ####  |➡️ <a href="#">                                                    | <ul><li>Javascript - Three.js</li><li>Node Framework </li><li>NPM Package Manager</li></ul>  | 
+
 
 #### Learning Three.JS Resizing and Fullscreen Modes ####
 > Using Three.JS, Node Framework and NPM Package Manager
@@ -29,7 +35,14 @@
 > <p>3️⃣ Common "stair" distortion on shapes minimized, gaining fluid flow of shape movement </p>
 ![fullscreen_and_resizing](https://user-images.githubusercontent.com/95829904/190499607-4b962dcb-c574-4842-a4eb-7ea1f169f934.gif)
 
-
+<
+#### Learning Three.JS Resizing and Fullscreen Modes ####
+> Using Three.JS, Node Framework and NPM Package Manager
+> <p>➡️ <a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/08_fullscreen_and_resizing/readme.md"> Repository *Created on September 15th, 2022* </a> </p>
+> <p>1️⃣ Viewport image now able to resize regardless of web browser type (including Safari 👍)</p>
+> <p>2️⃣ Enter and exit fullscreen double-click enabled </p>
+> <p>3️⃣ Common "stair" distortion on shapes minimized, gaining fluid flow of shape movement </p>
+![fullscreen_and_resizing](https://user-images.githubusercontent.com/95829904/190499607-4b962dcb-c574-4842-a4eb-7ea1f169f934.gif)
 
 </br>
 </br>  
