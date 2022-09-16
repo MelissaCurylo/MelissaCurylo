@@ -24,7 +24,7 @@
 ### 🌱 Current Mini Projects & Learning Highlights (updated weekly) ###
 | Topics Covered                            | Details                 |  Repository Link and Date                                          | Language(s) and/or Tool(s)                                                                   | Demo                                                            | 
 |-------------------------------------------|-------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Three.JS Resizing and Fullscreen Modes    |  <ul>1️⃣ Viewport resize in any web browser (including Safari 👍)2️⃣ Enter/exit fullscreen double-click enabled</ul> | ➡️ <a href="#"> | <ul><li>Javascript - Three.js</li><li>Node Framework </li><li>NPM Package Manager</li></ul>  | ![fullscreen_and_resizing](https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif)
+| Three.JS Resizing and Fullscreen Modes    | 1️⃣ Viewport resize (including Safari 👍)</br>2️⃣ Fullscreen double-click | ➡️ <a href="#"> | <ul><li>Javascript - Three.js</li><li>Node Framework </li><li>NPM Package Manager</li></ul>  | ![fullscreen_and_resizing](https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif)
 
 
 
