@@ -22,10 +22,10 @@
 ### Mini-Projects & Learning - Updated weekly to highlight current work! ###
 
 ### 🌱 Current Mini Projects & Learning Highlights (updated weekly) ###     
-| Topics                                    | Details                 |  Repo + Date                                                       | Languages/Tools                                                                              | Demo                                                            | 
-|-------------------------------------------|-------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| <sup>Three.JS</br>Resizing</br>and</br>Fullscreen Modes</sup>| <sub><sup>1️⃣ Viewport resize (Safari too👍)</br>2️⃣ Fullscreen double-click</sup></sub> | <sub><sup>➡️ <a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/08_fullscreen_and_resizing/readme.md"> Repo </a></br>*_Sept. 15th_*</sup></sub> | <ul><li><sub><sup>JS-Three.js</sup></sub></li><li><sup><sub>Node</sup></sub></li><li><sup><sub>NPM</sup></sub></li></ul> | <img src="https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif" width="48">
-| Three.JS</br>Resizing</br>Fullscreen Modes| 1️⃣ Viewport resize (Safari too👍)</br>2️⃣ Fullscreen double-click | ➡️ <a href="#"> | <ul><li>JS-Three.js</li><li>Node</li><li>NPM</li></ul>  | 
+| Topic + Details                                                                                                                   |  Repository Link + Date                                                       | Languages + Tools                                                                              | Demo                                                       | 
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| <sup> <p> 1️⃣ Viewport resize in web browser - Safari too 👍 </p> 2️⃣ Enter and exit fullscreen double-click enabled </sup> | <sup>➡️ <a href="https://github.com/MelissaCurylo/three_js/blob/master/practice/08_fullscreen_and_resizing/readme.md"> Repo Click here! </a> </br> <p> *_September 15th, 2022_* </p></sup> | <ul><li><sup>JS-Three.js</sup></li><li><sup>Node</sup></li><li><sup>NPM</sup></li></ul> | <img src="https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif" width="250">
+| 1️⃣ Viewport resize (Safari too👍)</br>2️⃣ Fullscreen double-click | ➡️ <a href="#"> | <ul><li>JS-Three.js</li><li>Node</li><li>NPM</li></ul>  | 
 
 
 
@@ -63,7 +63,7 @@
 </br>
 
 ### 🌱Current Learning Trajectory ### 
-| Title                        | Due Date             | Current Status                  | Topics                                                                                                                                | Finished                                                            | 
+| Title                        | Due Date             | Status                          | Topics                                                                                                                                | Finished                                                            | 
 |------------------------------|----------------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | Graduate Coding Dojo         | August 26th, 2022    | Complete                        | <ul><li>Python Stack</li> <li>MERN Stack</li> <li>JAVA Stack</li></ul>                                                                | <ul><li>[x] Complete </li><li>[Certificate](#Certificate)</li></ul> |
 | SDE Training                 | October 3rd, 2022    | in progress                     | ➡<a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing">Check it out! </a>   | <ul><li>[ ] Complete </li></ul> |
