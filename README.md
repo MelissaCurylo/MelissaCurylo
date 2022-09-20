@@ -37,10 +37,10 @@
 ### 🌱 Major Projects Underway ###
 | Project                            | Release Date                    | Current Status            | Stack Base                | Finished                                                                   | 
 |------------------------------------|---------------------------------|---------------------------|---------------------------|----------------------------------------------------------------------------|
-| <sup>Interactive Portfolio</sup>   | <sup>September 19th, 2022</sup> | <sup>in progress</sup>    | <sup>Three.js</sup>       | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
 | <sup>Spring Yogi Application</sup> | <sup>September 22nd, 2022</sup> | <sup>in progress</sup>    | <sup>Java Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
-| <sup>HOA Board Application</sup>   | <sup>September 26th, 2022</sup> | <sup>in progress</sup>    | <sup>MERN Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
-| <sup>T_Alchemy Application</sup>   | <sup>September 26th, 2022</sup> | <sup>in progress</sup>    | <sup>Python Stack</sup>   | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
+| <sup>HOA Board Application</sup>   | <sup>September 24th, 2022</sup> | <sup>in progress</sup>    | <sup>MERN Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
+| <sup>T_Alchemy Application</sup>   | <sup>September 27th, 2022</sup> | <sup>in progress</sup>    | <sup>Python Stack</sup>   | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
+| <sup>Interactive Portfolio</sup>   | <sup>September 30th, 2022</sup> | <sup>in progress</sup>    | <sup>Three.js</sup>       | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
 
 
 </br>
