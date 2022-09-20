@@ -38,7 +38,8 @@
 </br>  
 
 
-### 🌱 Major Projects Underway ### *_corrected dates below_*
+### 🌱 Major Projects Underway <sub>*_Corrected dates below_*</sub> ### 
+
 | Project                            | Release Date                    | Current Status            | Stack Base                | Finished                                                                   | 
 |------------------------------------|---------------------------------|---------------------------|---------------------------|----------------------------------------------------------------------------|
 | <sup>Spring Yogi Application</sup> | <sup>September 22nd, 2022</sup> | <sup>in progress</sup>    | <sup>Java Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
