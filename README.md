@@ -21,12 +21,16 @@
 </br>
 </br>
 
-### 🌱 Current Mini Projects & Learning Highlights (updated weekly) ###     
+### 🌱 Current Mini Projects & Learning Highlights (updated weekly) ###
+
+# *_Loading new content_* #
+
 | Topic + Details                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-|</br> <sup><p>1️⃣ Resize browser viewport, Safari too👍</p><p>2️⃣ Enter/exit fullscreen </p><p>3️⃣ "Stair" edge minimized</p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/tree/master/practice/08_fullscreen_and_resizing">Repo Click here!</a></sup></br><sup>*_September 15th, 2022_*</sup> | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</sup>         | <img src="https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif" width="180">    |
-|</br> <sup><p>1️⃣ Float32Array Class </p><p>2️⃣ BufferGeometry Class </p><p>3️⃣ Defining Geometric Vertices </p><p>4️⃣ Creating Geometries </p></sup>                         | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/blob/master/practice/09_geometries/readme.md">Repo Click here!</a></sup></br><sup>*_September 15th, 2022_*</sup>              | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</sup>         | <img src="https://github.com/MelissaCurylo/three.js/raw/master/practice/09_geometries/demos/float32array.gif" width="180"> <img src="https://github.com/MelissaCurylo/three.js/raw/master/practice/09_geometries/demos/playing_with_geometries.gif" width="100"> |
-|</br> <sup><p>1️⃣ Create GUI Panel </p><p>2️⃣ Edit Controls <p><p>3️⃣ Key 'h' GUI Panel Hide </p>    | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/blob/master/practice/10_debug_ui/readme.md">Repo Click here!</a></sup></br><sup>*_September 16th, 2022_*</sup>  | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</br>🔹lil-gui</sup>         | <img src="https://user-images.githubusercontent.com/95829904/190680202-e93a0b4f-dd5f-4f12-8345-23949f8d2892.gif" width="180">  |
+| Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    |
+
+
+<!-- |</br> <sup><p>1️⃣ Resize browser viewport, Safari too👍</p><p>2️⃣ Enter/exit fullscreen </p><p>3️⃣ "Stair" edge minimized</p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/tree/master/practice/08_fullscreen_and_resizing">Repo Click here!</a></sup></br><sup>*_September 15th, 2022_*</sup> | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</sup>         | <img src="https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif" width="180">    |-->
 
 <!--  <img src="" width="200">  -->
 
@@ -34,7 +38,7 @@
 </br>  
 
 
-### 🌱 Major Projects Underway ###
+### 🌱 Major Projects Underway ### *_corrected dates below_*
 | Project                            | Release Date                    | Current Status            | Stack Base                | Finished                                                                   | 
 |------------------------------------|---------------------------------|---------------------------|---------------------------|----------------------------------------------------------------------------|
 | <sup>Spring Yogi Application</sup> | <sup>September 22nd, 2022</sup> | <sup>in progress</sup>    | <sup>Java Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
