@@ -22,15 +22,12 @@
 </br>
 
 ### 🌱 Current Mini Projects & Learning Highlights (updated weekly) ###
-
-# *_Loading new content_* #
-
 | Topic + Details                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 |</br> <sup><p>1️⃣ Textures </p><p>2️⃣ Physically Based Rendering (PBR) Principles </p><p>3️⃣ TextureLoader, LoadingManager</p><p>4️⃣ UV unwrapping, Transformation </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/tree/master/practice/11_textures">Repo Click here!</a></sup></br><sup>*_September 19th, 2022_*</sup> | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</sup>         | <img src="https://user-images.githubusercontent.com/95829904/191289584-bdf5b702-ef92-4c7e-8b65-e57e19197b6b.gif" width="180">    |
 
 
-
+<!-- # *_Loading new content_* # -->
 <!-- | Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | -->
 <!-- |</br> <sup><p>1️⃣ Resize browser viewport, Safari too👍</p><p>2️⃣ Enter/exit fullscreen </p><p>3️⃣ "Stair" edge minimized</p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/tree/master/practice/08_fullscreen_and_resizing">Repo Click here!</a></sup></br><sup>*_September 15th, 2022_*</sup> | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</sup>         | <img src="https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif" width="180">    |-->
 
