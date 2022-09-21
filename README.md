@@ -34,6 +34,14 @@
 <!--  <img src="" width="200">  -->
 
 </br>
+</br>
+
+### 🌱 Weekly Algorithms <sub>*_Starting from the basics_*</sub> ### 
+| Challenge Title                           | Source                                                                                   | Repository Link + Date                                                                                                                                                                       | Finished                                                   | Demo                                                                                                                            |
+|-------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| <sup># 1480 Running Sum of 1D Array</sup> | <sup><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/javascript/leetcode_1480_running_sum_1d_array.js">Repo Click here!</a></sup></br><sup>*_September 21st, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/191601148-0f4f1a3c-0397-4f46-b184-06be6c5c4ea0.gif" width="180">   |
+
+</br>
 </br>  
 
 
@@ -45,16 +53,6 @@
 | <sup>HOA Board Application</sup>   | <sup>September 24th, 2022</sup> | <sup>in progress</sup>    | <sup>MERN Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
 | <sup>T_Alchemy Application</sup>   | <sup>September 27th, 2022</sup> | <sup>in progress</sup>    | <sup>Python Stack</sup>   | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
 | <sup>Interactive Portfolio</sup>   | <sup>September 30th, 2022</sup> | <sup>in progress</sup>    | <sup>Three.js</sup>       | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
-
-</br>
-</br>
-
-### 🌱 Weekly Algorithms <sub>*_Starting from the basics_*</sub> ### 
-| Challenge Title                           | Source                                                                                   | Repository Link + Date                                                                                                                                                                       | Finished                                                   | Demo                                                                                                                            |
-|-------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| <sup># 1480 Running Sum of 1D Array</sup> | <sup><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/javascript/leetcode_1480_running_sum_1d_array.js">Repo Click here!</a></sup></br><sup>*_September 21st, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/191601148-0f4f1a3c-0397-4f46-b184-06be6c5c4ea0.gif" width="180">   |
-
-
 
 </br>
 </br>
