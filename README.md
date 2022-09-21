@@ -52,7 +52,7 @@
 ### 🌱 Weekly Algorithms <sub>*_Starting from the basics_*</sub> ### 
 | Challenge Title                           | Source                                                                                   | Submission Date                 | Finished                                                   | Demo                                                                                                                            |
 |-------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| <sup># 1480 Running Sum of 1D Array</sup> | <sup><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Leetcode</a></sup> | <sup>September 21st, 2022</sup> | <ul><li> :white_check_mark: <sup>Solved</sup> </li>        | <img src="https://user-images.githubusercontent.com/95829904/191601148-0f4f1a3c-0397-4f46-b184-06be6c5c4ea0.gif" width="180">   |
+| <sup># 1480 Running Sum of 1D Array</sup> | <sup><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Leetcode</a></sup> | <sup>September 21st, 2022</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/191601148-0f4f1a3c-0397-4f46-b184-06be6c5c4ea0.gif" width="180">   |
 
 
 
