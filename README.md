@@ -2,7 +2,7 @@
 
 
 > 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a> </br>
-<!--💬 Ask me about: **Weekend Algo Crew** 🚨**_Starts again October 15th, 2022_** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a> ->
+<!--💬 Ask me about: **Weekend Algo Crew** 🚨**_Starts again October 15th, 2022_** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a> -->
 
 </br>
 
@@ -22,8 +22,7 @@
 </br>
 
 ### 🌱 Current Mini Projects & Learning Highlights <sub>*_Updated weekly_*</sub> ###
-# *_Loading new content soon - Taking a Break! _* #
-
+# *Loading new content soon - Taking a Break! * #
 | Topic + Details                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | 
