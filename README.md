@@ -2,7 +2,7 @@
 
 
 > 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a> </br>
-> 💬 Ask me about: **Weekend Algo Crew** 🚨**_Starts again October 15th, 2022_** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a>
+<!--💬 Ask me about: **Weekend Algo Crew** 🚨**_Starts again October 15th, 2022_** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a> ->
 
 </br>
 
@@ -22,12 +22,15 @@
 </br>
 
 ### 🌱 Current Mini Projects & Learning Highlights <sub>*_Updated weekly_*</sub> ###
+# *_Loading new content soon - Taking a Break! _* #
+
 | Topic + Details                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-|</br> <sup><p>1️⃣ Textures </p><p>2️⃣ Physically Based Rendering (PBR) Principles </p><p>3️⃣ TextureLoader, LoadingManager</p><p>4️⃣ UV unwrapping, Transformation </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/tree/master/practice/11_textures">Repo Click here!</a></sup></br><sup>*_September 19th, 2022_*</sup> | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</sup>         | <img src="https://user-images.githubusercontent.com/95829904/191289584-bdf5b702-ef92-4c7e-8b65-e57e19197b6b.gif" width="180">    |
+| Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | 
 
 
-<!-- # *_Loading new content_* # -->
+
+<!-- # *_Loading new content soon_* # -->
 <!-- | Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | -->
 <!-- |</br> <sup><p>1️⃣ Resize browser viewport, Safari too👍</p><p>2️⃣ Enter/exit fullscreen </p><p>3️⃣ "Stair" edge minimized</p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/tree/master/practice/08_fullscreen_and_resizing">Repo Click here!</a></sup></br><sup>*_September 15th, 2022_*</sup> | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</sup>         | <img src="https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif" width="180">    |-->
 
@@ -39,7 +42,9 @@
 ### 🌱 Weekly Algorithms <sub>*_Starting from the basics_*</sub> ### 
 | Challenge Title                           | Source                                                                                   | Repository Link + Date                                                                                                                                                                       | Finished                                                   | Demo                                                                                                                            |
 |-------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| <sup># 1480 Running Sum of 1D Array</sup> | <sup><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/javascript/leetcode_1480_running_sum_1d_array.js">Repo Click here!</a></sup></br><sup>*_September 21st, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/191601148-0f4f1a3c-0397-4f46-b184-06be6c5c4ea0.gif" width="180">   |
+
+
+<!--| <sup># 1480 Running Sum of 1D Array</sup> | <sup><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/javascript/leetcode_1480_running_sum_1d_array.js">Repo Click here!</a></sup></br><sup>*_September 21st, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/191601148-0f4f1a3c-0397-4f46-b184-06be6c5c4ea0.gif" width="180">   | -->
 
 </br>
 </br>  
