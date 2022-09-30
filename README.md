@@ -18,18 +18,21 @@
 > <a href="mailto:Melissa.Curylo@outlook.com"><p style="margin-left: 5px">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212896-9f152697-8d55-4fc1-80d6-dc87fde79dc1.svg)</a> <a href="https://www.linkedin.com/in/melissacurylo/">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/95829904/190212231-c1654e98-53d7-4d35-ae9c-2689ef96450e.svg)</a></p>
 
 
+
 </br>
 </br>
 
 ### 🌱 Current Mini Projects & Learning Highlights <sub>*_Updated weekly_*</sub> ###
-# *Loading new content soon - Taking a Break! * #
+# Mini Break Over, Back at it! 👍 #
 | Topic + Details                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | 
+|</br> <sup><p>1️⃣ Python List Manipulation </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/blob/master/100_days_of_python/4-6_treasure_map_challenge.py">Repo Click here!</a></sup></br><sup>*_September 30th, 2022_*</sup> | <sup>🔹List Manipulation </br>🔹Game Challenge </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193352253-624c0eae-2a0f-447f-b62d-98e617d3c742.gif" width="180">    |
+
+<!--| Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | -->
 
 
 
-<!-- # *_Loading new content soon_* # -->
+<!-- # *_Loading new content soon_* # OR # *Loading new content soon - Taking a Break! * # -->
 <!-- | Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | -->
 <!-- |</br> <sup><p>1️⃣ Resize browser viewport, Safari too👍</p><p>2️⃣ Enter/exit fullscreen </p><p>3️⃣ "Stair" edge minimized</p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/three.js/tree/master/practice/08_fullscreen_and_resizing">Repo Click here!</a></sup></br><sup>*_September 15th, 2022_*</sup> | <sup>🔹JS-Three.js</br>🔹Node</br>🔹NPM</sup>         | <img src="https://user-images.githubusercontent.com/95829904/190531222-4f7c50a6-94d5-414f-9b1e-1c18f73a4f2c.gif" width="180">    |-->
 
@@ -41,8 +44,6 @@
 ### 🌱 Weekly Algorithms <sub>*_Starting from the basics_*</sub> ### 
 | Challenge Title                           | Source                                                                                   | Repository Link + Date                                                                                                                                                                       | Finished                                                   | Demo                                                                                                                            |
 |-------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-
-
 <!--| <sup># 1480 Running Sum of 1D Array</sup> | <sup><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/javascript/leetcode_1480_running_sum_1d_array.js">Repo Click here!</a></sup></br><sup>*_September 21st, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/191601148-0f4f1a3c-0397-4f46-b184-06be6c5c4ea0.gif" width="180">   | -->
 
 </br>
