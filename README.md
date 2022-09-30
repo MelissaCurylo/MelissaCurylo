@@ -23,7 +23,7 @@
 </br>
 
 ### 🌱 Current Mini Projects & Learning Highlights <sub>*_Updated weekly_*</sub> ###
-# Mini Break Over, Back at it! 👍 #
+#### Mini Break Over, Back at it! 👍 ####
 | Topic + Details                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 |</br> <sup><p>1️⃣ Python List Manipulation </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/blob/master/100_days_of_python/4-6_treasure_map_challenge.py">Repo Click here!</a></sup></br><sup>*_September 30th, 2022_*</sup> | <sup>🔹List Manipulation </br>🔹Game Challenge </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193352253-624c0eae-2a0f-447f-b62d-98e617d3c742.gif" width="180">    |
