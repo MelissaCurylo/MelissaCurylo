@@ -19,15 +19,17 @@
 
 
 
+
 </br>
 </br>
 
 ### 🌱 Current Mini Projects & Learning Highlights <sub>*_Updated weekly_*</sub> ###
 #### Mini Break Over, Back at it! 👍 ####
-| Topic + Details                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
+| Title                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 |</br> <sup><p>1️⃣ Python List Manipulation </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/blob/master/100_days_of_python/4-6_treasure_map_challenge.py">Repo Click here!</a></sup></br><sup>*_September 30th, 2022_*</sup> | <sup>🔹List Manipulation </br>🔹Game Challenge </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193352253-624c0eae-2a0f-447f-b62d-98e617d3c742.gif" width="180">    |
-|</br> <sup><p>1️⃣ Email Slicer </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/tree/master/mini_projects/email_slicer">Repo Click here!</a></sup></br><sup>*_October 2nd, 2022_*</sup> | <sup>🔹Conditional Validation </br> 🔹index() method </br>🔹strip() method </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193478343-da837aa2-b394-4a48-9d4b-5a0874a712e7.gif" width="180">    |
+|</br> <sup><p>:two: Email Slicer </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/tree/master/mini_projects/email_slicer">Repo Click here!</a></sup></br><sup>*_October 2nd, 2022_*</sup> | <sup>🔹Conditional Validation </br> 🔹index() method </br>🔹strip() method </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193478343-da837aa2-b394-4a48-9d4b-5a0874a712e7.gif" width="180">    |
+|</br> <sup><p>:three: Paper, Rock, Scissors Game </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/blob/master/100_days_of_python/4-7_paper_rock_scissor_game.py">Repo Click here!</a></sup></br><sup>*_October 3rd, 2022_*</sup> | <sup>🔹Conditional validation </br> 🔹sleep() method </br>🔹Avoiding nested if statements </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193716121-85b611a0-a848-4797-9890-cf039cfefff5.gif" width="180">    |
 
 <!--| Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | -->
 
