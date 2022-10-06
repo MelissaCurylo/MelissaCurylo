@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my GitHub! </br>
+# Hi there 👋 Welcome to my GitHub! 
 
 [![](https://visitcount.itsvg.in/api?id=MelissaCurylo&label=Visitors%20Today&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
