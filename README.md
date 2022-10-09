@@ -36,9 +36,17 @@
 |</br> <sup><p>:three: Paper, Rock, Scissors Game </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/blob/master/100_days_of_python/4-7_paper_rock_scissor_game.py">Repo Click here!</a></sup></br><sup>*_October 3rd, 2022_*</sup> | <sup>🔹Conditional validation </br> 🔹sleep() method </br>🔹Avoiding nested if statements </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193716121-85b611a0-a848-4797-9890-cf039cfefff5.gif" width="180">    |
 |</br> <sup><p>:four: Docker and Nginx Commands </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/containers_frameworks_tools/blob/main/README.md">Repo Demo Click here!</a></sup></br><sup>*_October 4th, 2022_*</sup> | <sup>🔹Creating Docker containers </br> 🔹Creating Nginx Web server </br>🔹Maintaining logs </br> 🔹 Creating unique named containers </sup>         | <img src="https://user-images.githubusercontent.com/95829904/193871847-71fc1c5f-4dec-49eb-923e-c27caee6afcf.gif" width="180">    |
 
+
+<!--|</br> <sup><p>:one: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
+<!--|</br> <sup><p>:two: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
+<!--|</br> <sup><p>:three: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
+<!--|</br> <sup><p>:four: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
+<!--|</br> <sup><p>:five: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
+<!--|</br> <sup><p>:six: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
+<!--|</br> <sup><p>:seven: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
+
+
 <!--| Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | -->
-
-
 
 <!-- # *_Loading new content soon_* # OR # *Loading new content soon - Taking a Break! * # -->
 <!-- | Loading.....     | ➡️ Loading..... |🔹Loading.....         | <img src="https://user-images.githubusercontent.com/95829904/191274089-a34446cd-115e-461a-ad37-9f3192d5bdc6.gif" width="">    | -->
