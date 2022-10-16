@@ -25,10 +25,27 @@
 
 
 </br>
+</br>  
+
+
+### 🌱 Major Projects Underway  ### 
+
+| Project                            | Repository Link + Release Date                    | Current Status            | Stack Base                | Finished                                                                   | 
+|------------------------------------|---------------------------------|---------------------------|---------------------------|----------------------------------------------------------------------------|
+| <sup>Trello Clone</sup>   | <sup>➡️<a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/trello_clone">Repo Click Here!</a></sup></br><sup>*_October 21st, 2022_*</sup> | <sup>In-Progress</sup>    | <sup>🔹Angular </br> 🔹TypeScript </br>🔹Node.js with Express Framework </br> 🔹Socket.io </br>🔹Mongoose for MongoDB </br> 🔹Docker </br> </sup>       | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
+
+<!--| <sup>Spring Yogi Application</sup> | <sup>TBA</sup> | <sup>in progress</sup>    | <sup>Java Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |-->
+<!--| <sup>HOA Board Application</sup>   | <sup>TBA</sup> | <sup>pending</sup>    | <sup>MERN Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |-->
+<!--| <sup>T_Alchemy Application</sup>   | <sup>TBA</sup> | <sup>pending</sup>    | <sup>Python Stack</sup>   | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |-->
+<!--| <sup>Interactive Portfolio</sup>   | <sup>TBA</sup> | <sup>pending</sup>    | <sup>Three.js</sup>       | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |-->
+
+</br>
 </br>
 
-### 🌱 Current Mini Projects & Learning Highlights <sub>*_Updated weekly_*</sub> ###
+### 🌱 Current Mini Projects & Learning Highlights  ###
 #### Mini Break Over, Back at it! 👍 ####
+
+
 | Title                                                                                                                                                                | Repository Link + Date                                                                                                                                                                   | Languages + Tools                                      | Demo  <sup>*_Click demo image to enlarge_*</sup>                                                                                 | 
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 |</br> <sup><p>:one: Python List Manipulation </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/blob/master/100_days_of_python/4-6_treasure_map_challenge.py">Repo Click here!</a></sup></br><sup>*_September 30th, 2022_*</sup> | <sup>🔹List Manipulation </br>🔹Game Challenge </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193352253-624c0eae-2a0f-447f-b62d-98e617d3c742.gif" width="180">    |
@@ -36,6 +53,8 @@
 |</br> <sup><p>:three: Paper, Rock, Scissors Game </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/python/blob/master/100_days_of_python/4-7_paper_rock_scissor_game.py">Repo Click here!</a></sup></br><sup>*_October 3rd, 2022_*</sup> | <sup>🔹Conditional validation </br> 🔹sleep() method </br>🔹Avoiding nested if statements </br></sup>         | <img src="https://user-images.githubusercontent.com/95829904/193716121-85b611a0-a848-4797-9890-cf039cfefff5.gif" width="180">    |
 |</br> <sup><p>:four: Docker and Nginx Commands </p></sup>     | <sup>➡️<a href="https://github.com/MelissaCurylo/containers_frameworks_tools/blob/main/README.md">Repo Demo Click here!</a></sup></br><sup>*_October 4th, 2022_*</sup> | <sup>🔹Creating Docker containers </br> 🔹Creating Nginx Web server </br>🔹Maintaining logs </br> 🔹 Creating unique named containers </sup>         | <img src="https://user-images.githubusercontent.com/95829904/193871847-71fc1c5f-4dec-49eb-923e-c27caee6afcf.gif" width="180">    |
 
+
+<!--<sub>*_Updated weekly_*</sub>-->
 
 <!--|</br> <sup><p>:one: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
 <!--|</br> <sup><p>:two: Project Name  </p></sup>     | <sup>➡️<a href="">Repo Demo Click here!</a></sup></br><sup>*_October , 2022_*</sup> | <sup>🔹what did you do? enter </br> 🔹enter </br>🔹enter </br> 🔹enter  </sup>         | <img src="" width="180">    |-->
@@ -60,7 +79,7 @@
 ### 🌱 Weekly Algorithms <sub>*_Starting from the basics_*</sub> ### 
 | Challenge Title                           | Source                                                                                   | Repository Link + Date                                                                                                                                                                       | Finished                                                   | Demo                                                                                                                            |
 |-------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| <sup># Leetcode # 713 Subarray Products Less than k </sup> | <sup><a href="https://leetcode.com/problems/subarray-product-less-than-k/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/python/lc_713_subarray_products_less_than_k.py">Repo Click here!</a></sup></br><sup>*_October 9th, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/194777382-2d7c6037-0484-46a0-9aa7-42ad7cddf08a.gif" width="180">   |
+| <sup># Leetcode # 713 Subarray Products Less than k </sup> | <sup><a href="https://leetcode.com/problems/subarray-product-less-than-k/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/python/lc_713_subarray_products_less_than_k.py">Repo Click Here!</a></sup></br><sup>*_October 9th, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/194777382-2d7c6037-0484-46a0-9aa7-42ad7cddf08a.gif" width="180">   |
 
 <!--| <sup># </sup> | <sup><a href="">Leetcode</a></sup> | <sup>➡️<a href="">Repo Click here!</a></sup></br><sup>*_October 9th, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="" width="180">   | -->
 <!--| <sup># </sup> | <sup><a href="">Leetcode</a></sup> | <sup>➡️<a href="">Repo Click here!</a></sup></br><sup>*_October 9th, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="" width="180">   | -->
@@ -85,19 +104,6 @@
 <!--| <sup># 1480 Running Sum of 1D Array</sup> | <sup><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/javascript/leetcode_1480_running_sum_1d_array.js">Repo Click here!</a></sup></br><sup>*_September 21st, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/191601148-0f4f1a3c-0397-4f46-b184-06be6c5c4ea0.gif" width="180">   | -->
 
 
-
-</br>
-</br>  
-
-
-### 🌱 Major Projects Underway <sub>*_Corrected dates below_*</sub> ### 
-
-| Project                            | Release Date                    | Current Status            | Stack Base                | Finished                                                                   | 
-|------------------------------------|---------------------------------|---------------------------|---------------------------|----------------------------------------------------------------------------|
-| <sup>Spring Yogi Application</sup> | <sup>TBA</sup> | <sup>in progress</sup>    | <sup>Java Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
-| <sup>HOA Board Application</sup>   | <sup>TBA</sup> | <sup>pending</sup>    | <sup>MERN Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
-| <sup>T_Alchemy Application</sup>   | <sup>TBA</sup> | <sup>pending</sup>    | <sup>Python Stack</sup>   | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
-| <sup>Interactive Portfolio</sup>   | <sup>TBA</sup> | <sup>pending</sup>    | <sup>Three.js</sup>       | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
 
 </br>
 </br>
