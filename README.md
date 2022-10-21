@@ -28,11 +28,13 @@
 </br>  
 
 
-### 🌱 Major Projects Underway  ### 
+<!-- ### 🌱 Major Projects Underway  ### -->
 
-| Project                            | Repository Link + Release Date                    | Current Status            | Stack Base                | Finished                                                                   | 
-|------------------------------------|---------------------------------|---------------------------|---------------------------|----------------------------------------------------------------------------|
-| <sup>Trello Clone</sup>   | <sup>➡️<a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/trello_clone">Repo Click Here!</a></sup></br><sup>*_October 21st, 2022_*</sup> | <sup>In-Progress</sup>    | <sup>🔹Angular </br> 🔹TypeScript </br>🔹Node.js with Express Framework </br> 🔹Socket.io </br>🔹Mongoose for MongoDB </br> 🔹Docker </br> </sup>       | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
+
+<!--| Project                            | Repository Link + Release Date                    | Current Status            | Stack Base                | Finished                                                                   | 
+
+<!--|------------------------------------|---------------------------------|---------------------------|---------------------------|----------------------------------------------------------------------------|
+<!--| <sup>Trello Clone</sup>   | <sup>➡️<a href="https://github.com/MelissaCurylo/javascript/tree/master/mini_projects/trello_clone">Repo Click Here!</a></sup></br><sup>*_October 21st, 2022_*</sup> | <sup>In-Progress</sup>    | <sup>🔹Angular </br> 🔹TypeScript </br>🔹Node.js with Express Framework </br> 🔹Socket.io </br>🔹Mongoose for MongoDB </br> 🔹Docker </br> </sup>       | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |
 
 <!--| <sup>Spring Yogi Application</sup> | <sup>TBA</sup> | <sup>in progress</sup>    | <sup>Java Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |-->
 <!--| <sup>HOA Board Application</sup>   | <sup>TBA</sup> | <sup>pending</sup>    | <sup>MERN Stack</sup>     | <ul><li>[ ] <sup>Complete</sup> </li><li>[ ] <sup>Deployed</sup></li></ul> |-->
@@ -76,10 +78,12 @@
 </br>
 </br>
 
-### 🌱 Weekly Algorithms <sub>*_Starting from the basics_*</sub> ### 
-| Challenge Title                           | Source                                                                                   | Repository Link + Date                                                                                                                                                                       | Finished                                                   | Demo                                                                                                                            |
-|-------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| <sup># Leetcode # 713 Subarray Products Less than k </sup> | <sup><a href="https://leetcode.com/problems/subarray-product-less-than-k/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/python/lc_713_subarray_products_less_than_k.py">Repo Click Here!</a></sup></br><sup>*_October 9th, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/194777382-2d7c6037-0484-46a0-9aa7-42ad7cddf08a.gif" width="180">   |
+
+<!--### 🌱 Weekly Algorithms <sub>*_Starting from the basics_*</sub> ### -->
+
+<!--| Challenge Title                           | Source                                                                                   | Repository Link + Date                                                                                                                                                                       | Finished                                                   | Demo                                                                                                                            |
+<!--|-------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+<!--| <sup># Leetcode # 713 Subarray Products Less than k </sup> | <sup><a href="https://leetcode.com/problems/subarray-product-less-than-k/">Leetcode</a></sup> | <sup>➡️<a href="https://github.com/MelissaCurylo/algorithms/blob/master/python/lc_713_subarray_products_less_than_k.py">Repo Click Here!</a></sup></br><sup>*_October 9th, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="https://user-images.githubusercontent.com/95829904/194777382-2d7c6037-0484-46a0-9aa7-42ad7cddf08a.gif" width="180">   |
 
 <!--| <sup># </sup> | <sup><a href="">Leetcode</a></sup> | <sup>➡️<a href="">Repo Click here!</a></sup></br><sup>*_October 9th, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="" width="180">   | -->
 <!--| <sup># </sup> | <sup><a href="">Leetcode</a></sup> | <sup>➡️<a href="">Repo Click here!</a></sup></br><sup>*_October 9th, 2022_*</sup> | :white_check_mark: <sup>Solved</sup>                       | <img src="" width="180">   | -->
