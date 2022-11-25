@@ -2,7 +2,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=MelissaCurylo&label=Visitors%20Today&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=melissacurylo&label=Profile%20Views&icon=5&pretty=true" />
+</a>
 
 > 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a> </br>
 <!--💬 Ask me about: **Weekend Algo Crew** 🚨**_Starts again October 15th, 2022_** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a> -->
