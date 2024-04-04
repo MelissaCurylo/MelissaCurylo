@@ -6,7 +6,7 @@
 
 </Br>
 
-> 💬 Ask me about: **Software Development Engineer 4-Week Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a> </br>
+> 💬 Ask me about: **Software Development Engineer Training Plan** ➡️ <a href="https://docs.google.com/spreadsheets/d/1UlN1Endhlips5TNtbwazCKo-ioyGys5gjZlxJFPTfHA/edit?usp=sharing"> Check it out! </a> </br>
 <!--💬 Ask me about: **Weekend Algo Crew** 🚨**_Starts again October 15th, 2022_** ➡️ <a href="https://replit.com/@MelissaCurylo"> Check it out! </a> -->
 
 </br>
